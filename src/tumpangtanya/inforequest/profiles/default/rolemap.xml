@@ -3,5 +3,21 @@
   <permissions>
   <!-- -*- extra stuff goes here -*- -->
 
+    <permission name="tumpangtanya.inforequest: Add FormASubmissionDocument" acquire="True">
+      <role name="Manager"/>
+      <role name="Site Administrator"/>
+      <role name="Owner"/>
+      <role name="Contributor"/>
+    </permission>
+
+
+    <permission name="tumpangtanya.inforequest: Add InfoRequest" acquire="True">
+      <role name="Manager"/>
+      <role name="Site Administrator"/>
+      <role name="Owner"/>
+      <role name="Contributor"/>
+    </permission>
+
+
   </permissions>
 </rolemap>

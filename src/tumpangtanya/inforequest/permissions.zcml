@@ -6,6 +6,18 @@
   <configure zcml:condition="installed AccessControl.security">
   <!-- -*- extra stuff goes here -*- -->
 
+    <permission
+        id="tumpangtanya.inforequest.AddFormASubmissionDocument"
+        title="tumpangtanya.inforequest: Add FormASubmissionDocument"
+    />
+
+
+    <permission
+        id="tumpangtanya.inforequest.AddInfoRequest"
+        title="tumpangtanya.inforequest: Add InfoRequest"
+    />
+
+
 
   </configure>
 

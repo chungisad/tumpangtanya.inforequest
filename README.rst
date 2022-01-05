@@ -2,15 +2,12 @@
    If you want to learn more about writing documentation, please check out: http://docs.plone.org/about/documentation_styleguide.html
    This text does not appear on pypi or github. It is a comment.
 
-.. image:: https://github.com/collective/tumpangtanya.inforequest/actions/workflows/plone-package.yml/badge.svg
-    :target: https://github.com/collective/tumpangtanya.inforequest/actions/workflows/plone-package.yml
+.. image:: https://travis-ci.org/collective/tumpangtanya.inforequest.svg?branch=master
+    :target: https://travis-ci.org/collective/tumpangtanya.inforequest
 
-.. image:: https://coveralls.io/repos/github/collective/tumpangtanya.inforequest/badge.svg?branch=main
-    :target: https://coveralls.io/github/collective/tumpangtanya.inforequest?branch=main
+.. image:: https://coveralls.io/repos/github/collective/tumpangtanya.inforequest/badge.svg?branch=master
+    :target: https://coveralls.io/github/collective/tumpangtanya.inforequest?branch=master
     :alt: Coveralls
-
-.. image:: https://codecov.io/gh/collective/tumpangtanya.inforequest/branch/master/graph/badge.svg
-    :target: https://codecov.io/gh/collective/tumpangtanya.inforequest
 
 .. image:: https://img.shields.io/pypi/v/tumpangtanya.inforequest.svg
     :target: https://pypi.python.org/pypi/tumpangtanya.inforequest/
@@ -74,20 +71,6 @@ Install tumpangtanya.inforequest by adding it to your buildout::
 
 
 and then running ``bin/buildout``
-
-
-Authors
--------
-
-Provided by awesome people ;)
-
-
-Contributors
-------------
-
-Put your name here, you deserve it!
-
-- ?
 
 
 Contribute

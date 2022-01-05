@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
-from tumpangtanya.inforequest.testing import TUMPANGTANYA_INFOREQUEST_ACCEPTANCE_TESTING  # noqa: E501
 from plone.app.testing import ROBOT_TEST_LEVEL
 from plone.testing import layered
+from tumpangtanya.inforequest.testing import (
+    TUMPANGTANYA_INFOREQUEST_ACCEPTANCE_TESTING  # noqa: E501,,,
+)
 
 import os
 import robotsuite
